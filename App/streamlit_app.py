@@ -87,7 +87,8 @@ def main():
 			c = alt.Chart(pg_count).mark_bar().encode(x='Pagename',y='Counts',color='Pagename')
 			st.altair_chart(c,use_container_width=True)
 
-			
+			p = px.pie(pg_count,values='Counts',names='Pagename')
+      st.plotly_chart(p,use_container_width=True)
 
 		with st.expander('Emotion Classifier Metrics'):
 			df_emotions = pd.DataFrame(view_all_prediction_details(),columns=['Rawtext','Prediction','Probability','Time_of_Visit'])
