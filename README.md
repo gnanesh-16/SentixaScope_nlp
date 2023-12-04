@@ -12,8 +12,9 @@ Key-Components:
 Application view:
 https://senticanalysis.streamlit.app/
 
-![image](https://github.com/gnanesh-16/SentixaScope_nlp/assets/98212179/99724bbb-639d-4220-8d1c-cb1c271a0cf5)
+![image](https://github.com/gnanesh-16/SentixaScope_nlp/assets/98212179/ea2a8797-0833-4ff4-9bf6-9c50a260f371)
 
-![image](https://github.com/gnanesh-16/SentixaScope_nlp/assets/98212179/c8ca2324-8d31-4077-9147-1bfb2c56a46e)
+![image](https://github.com/gnanesh-16/SentixaScope_nlp/assets/98212179/9562c829-e9a2-474a-9d36-e59baf8fce65)
+
 
 
