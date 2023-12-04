@@ -8,3 +8,8 @@ Key-Components:
 4. Model Evaluation and Optimization
 5. Deployment via Streamlit
 6. For GUI (Graphical User Interface)- Integration- Streamlit.
+
+Application view:
+https://sentipulse.streamlit.app/
+
+
