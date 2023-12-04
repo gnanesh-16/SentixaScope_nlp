@@ -14,5 +14,6 @@ https://senticanalysis.streamlit.app/
 
 ![image](https://github.com/gnanesh-16/SentixaScope_nlp/assets/98212179/99724bbb-639d-4220-8d1c-cb1c271a0cf5)
 
+![image](https://github.com/gnanesh-16/SentixaScope_nlp/assets/98212179/c8ca2324-8d31-4077-9147-1bfb2c56a46e)
 
 
