@@ -9,8 +9,14 @@ Key-Components:
 5. Deployment via Streamlit
 6. For GUI (Graphical User Interface)- Integration- Streamlit.
 
-Application view:
-https://senticanalysis.streamlit.app/
+DEPLOYMENT:
+Deploy Application in Both HuggingFace aswell as Streamlit's CLoud 'Deploy'
+View in Below Given Links
+
+'''
+1. HuggingFace-Cloud: https://huggingface.co/spaces/Sentic/SenticAnalysis
+2. Streamlit-Cloud: https://senticanalysis.streamlit.app/
+'''
 
 ![image](https://github.com/gnanesh-16/SentixaScope_nlp/assets/98212179/ea2a8797-0833-4ff4-9bf6-9c50a260f371)
 
